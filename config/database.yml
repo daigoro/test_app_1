@@ -29,3 +29,4 @@ production:
   username: root
   password:daigoro0828
   host: localhost
+  socket: /tmp/mysql.sock
